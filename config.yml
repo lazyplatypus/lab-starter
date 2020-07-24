@@ -15,7 +15,7 @@ template:
 
 before:
 - type: respond # the type of action, full list at https://lab.github.com/docs/actions/
-  01_first-response.md # some actions require additional options, those should appear below `type:`
+  with: 01_first-response.md # some actions require additional options, those should appear below `type:`
   # you can execute multiple actions in the `before` block
 
 # Steps for the course
