@@ -1,6 +1,6 @@
 # Title
 
-This is the paragraph to would describe the concept. It may link to other resources, or include images. Try to avoid _too_ much information and _too_ many external links. The purpose of these paragraphs is to give the user the information they need to complete the activity, understand what they're doing, and understand why they're doing it.
+We will learn what markdown is and how to use it
 
 ### More detail 
 
@@ -12,9 +12,9 @@ Here, we'll describe generally what the user is about to do.
 
 ### :keyboard: Activity: Specific description
 
-1. Step 1 in short sentence
-2. Step 2 in short sentence
-3. Step 3 in short sentence
+1. open a markdown editor
+2. check out the functions
+3. see how markdown is useful vs other formaats
 
 <hr>
 <h3 align="center">Watch below this comment for my response</h3>
